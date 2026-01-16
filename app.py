@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 
 st.set_page_config(page_title="My First Streamlit App Changes Hernan ", layout="centered")
-st.title("My First Streamlit App changes Hernan - GITHUB")
+st.title("My First Streamlit App changes Hernan - GITHUB WOW")
 st.write("This app is built with Streamlit!")
 
 # Display data
